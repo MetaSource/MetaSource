@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MetaSource
 - 👀 I’m interested in automating high latency processes, solving big world problems, and simplifying peoples lives with code!
-- 🌱 I’m currently learning Flutter and anything google! 
+- 🌱 I’m currently learning Flutter, Material Design and Angular! 
 - 💞️ I’m looking to collaborate on blockchain and IoT projects!  ...
 - 📫 How to reach me ... tba!
 
