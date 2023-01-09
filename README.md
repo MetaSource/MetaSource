@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MetaSource
 - 👀 I’m interested in automating high latency processes, solving big world problems, and simplifying peoples lives with code!
 - 👨🏻‍🏫 I'm an experienced backend developer, specializing in mircroservices & Resutful APIs !
-- 🌱 I’m currently learning Flutter, Material Design and Angular! 
+- 🌱 I’m currently learning React.js, Flutter and Angular! 
 - 💞️ I’m looking to collaborate on blockchain and IoT projects!  ...
 - 📫 How to reach me ... tba!
 
