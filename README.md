@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MetaSource
 - 👀 I’m interested in automating high latency processes, solving big world problems, and simplifying peoples lives with code!
-- 👨🏻‍🏫 I'm an experienced backend developer, specializing in mircroservices & Resutful APIs !
+- 👨🏻‍🏫 I'm an experienced backend developer, specializing in mircroservices & Restful APIs !
 - 🌱 I’m currently learning React.js! 
-- 💞️ I’m looking to collaborate on blockchain and IoT projects!  ...
+- 💞️ I’m looking to collaborate on blockchain and IoT projects but open to any!  ...
 - 📫 How to reach me ... tba!
 
 <!---
